@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+I am a creative and passionate Software Developer with a strong focus on developing applications and designing solutions that address real-world problems within my community. My adaptability and quick learning abilities, coupled with solid development skills, equip me to create practical, user-friendly, and scalable applications.
+
+🐍 Python | 🌐 Flask | ⚛️ Next.js | ⚛️ React | 📜 JavaScript | 🐘 PostgreSQL
 
 <!--
 **Shaheer-Ahmd/Shaheer-Ahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
