@@ -1,20 +1,22 @@
-### Hello there 👋
+# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a creative and passionate Software Developer with a strong focus on developing applications and designing solutions that address real-world problems within my community. My adaptability and quick learning abilities, coupled with solid development skills, equip me to create practical, user-friendly, and scalable applications.
+I am a B.Sc Computer Science student at LUMS and I like developing software that makes systems more secure and robust.
 
-🐍 Python | 🌐 Flask | ⚛️ Next.js | ⚛️ React | 📜 JavaScript | 🐘 PostgreSQL
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) (2Y)
+![eBPF](https://img.shields.io/badge/eBPF-FEC630.svg?style=for-the-badge&logo=ebpf&logoColor=black) (1Y)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) (3Y)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) (3Y)
 
-<!--
-**Shaheer-Ahmd/Shaheer-Ahmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I try to contribute to open source projects in my free time. Some of my open source contributions are below:
 
-Here are some ideas to get you started:
+- **Inspektor Gadget** (eBPF based Kubernetes observability tool - 2.7k Stars) | [Link to PRs](https://github.com/inspektor-gadget/inspektor-gadget/pulls?q=is%3Aany+is%3Apr+author%3AShaheer-Ahmd+)
+  - This involvement started during a three month menteeship at the **Linux Foundation** under the supervision of **Microsoft Engineers**.
+  - I implemented end-to-end tests for four core gadgets.
+  - I also strengthened the tool's infrastructure by applying the **dependency inversion principle** throughout the Go codebase, which enabled comprehensive unit tests for six core operators and raised test coverage from 0% to 94% average.
+  - I then engineered a new “Snapshot File” gadget, which uses the `task_file` BPF iterator to capture a snapshot of all open files, a critical capability for runtime security auditing and container inspection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Astropy (Python Software Foundation subproject - 5k stars)**
+  - Fixed the RUFF violation "unconventional import alias: ICN001" in the subproject's entire codebase. [Link to PR](https://github.com/astropy/astropy/pull/15899)
+
+- **Current Focus**
+  - These days, I am exploring **LLVM Compiler Infrastructure** and will be contributing to it.
